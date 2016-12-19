@@ -17,5 +17,8 @@ and open the template in the editor.
         ?>
         <h2>Sous-titre</h2>
         <p>DEuxième modification</p>
+        
+        <h3>Le collaborateur ajoute ses nouveautés</h3>
+        <p>Salut au créateur</p>
     </body>
 </html>
